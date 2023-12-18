@@ -1,4 +1,4 @@
-#webpage{
+*{
 	width = "1100px";
 	background-color: #CBD6CB;
 	padding-left: 10px;
@@ -6,7 +6,7 @@
 }
 table{
 	border : 1px solid black;
-/* 	width: 100% */
+	width: 100%
 }
 td{
 	border : 1px solid black;
